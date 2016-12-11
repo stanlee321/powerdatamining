@@ -1,4 +1,4 @@
-# powerdatamining
+# power-data-mining
 This repository is destinated to pull information about how to extract metadata from the openstreetmap api.
 ## Downloading the data...
 I found this way for extract information from the openstreetmap database with the power #tag, the file bolivia_power.osm is converted to bolivia_power.csv, the useful information into this .csv file is just nodes,ways,relations ids and some metadata related with ids, for extract the position (lat,lon,relations,tags)related with this ids create this litle programs.
